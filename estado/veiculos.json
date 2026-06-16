@@ -2589,6 +2589,16 @@
     "preco": "R$ 119.000,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "60112": {
+    "ano": "2009 / 2010",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60112-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60112",
+    "marca": "Honda",
+    "modelo": "City Sedan LX 1.5 Flex 16V 4p Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 29.900,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
+  },
   "60146": {
     "ano": "2017 / 2018",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60146-1b.jpg",
@@ -3259,6 +3269,16 @@
     "preco": "R$ 49.500,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "61058": {
+    "ano": "2020 / 2021",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61058-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61058",
+    "marca": "Gm",
+    "modelo": "Onix Hatch LT 1.0 12V Flex 5p Mec (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 38.900,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
+  },
   "61060": {
     "ano": "2014 / 2014",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61060-1b.jpg",
@@ -3329,6 +3349,16 @@
     "preco": "R$ 55.900,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "61160": {
+    "ano": "2011 / 2011",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61160-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61160",
+    "marca": "Citroen",
+    "modelo": "C3 GLX 1.4 Flex 8V 5p (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 16.900,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
+  },
   "61196": {
     "ano": "2020 / 2020",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61196-1b.jpg",
@@ -3338,6 +3368,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 89.000,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
+  },
+  "61197": {
+    "ano": "2026 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61197-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61197",
+    "marca": "Vw",
+    "modelo": "Nivus Sense 1.0 200 TSI Flex Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 71.000,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
   },
   "61201": {
     "ano": "2020 / 2020",
@@ -3358,5 +3398,55 @@
     "monta": "Média-monta",
     "preco": "R$ 18.500,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
+  },
+  "61284": {
+    "ano": "2025 / 2025",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61284-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61284",
+    "marca": "Vw",
+    "modelo": "Virtus Exclusive 250TSI 1.4 Flex 16V Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 82.000,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
+  },
+  "61304": {
+    "ano": "2009 / 2009",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61304-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61304",
+    "marca": "Vw",
+    "modelo": "Fox Trend 1.0Mi Total Flex 8V 4p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 16.500,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
+  },
+  "61337": {
+    "ano": "2014 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61337-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61337",
+    "marca": "Fiat",
+    "modelo": "Palio Attractive 1.0 EVO Fire Flex 8v 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 26.900,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
+  },
+  "61358": {
+    "ano": "2017 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61358-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61358",
+    "marca": "Ford",
+    "modelo": "Ka Sedan 1.0 SE Flex 4p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 26.500,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
+  },
+  "61372": {
+    "ano": "2018 / 2019",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61372-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61372",
+    "marca": "Vw",
+    "modelo": "Gol 1.0 Flex 12V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 26.500,00",
+    "visto_em": "2026-06-16T17:37:27+00:00"
   }
 }
