@@ -2349,6 +2349,16 @@
     "preco": "R$ 27.900,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "59725": {
+    "ano": "2007 / 2008",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/59725-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=59725",
+    "marca": "Gm",
+    "modelo": "S10 P-Up Colina 2.8 TDI 4x4 CS Diesel (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 44.000,00",
+    "visto_em": "2026-06-23T14:03:32+00:00"
+  },
   "59775": {
     "ano": "2016 / 2016",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/59775-1b.jpg",
@@ -2571,7 +2581,7 @@
   },
   "60073": {
     "ano": "2018 / 2019",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60073-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60073",
     "marca": "Renault",
     "modelo": "Kwid Intense 1.0 Flex 12V 5p Mec (S)",
@@ -3041,7 +3051,7 @@
   },
   "60721": {
     "ano": "2017 / 2017",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60721-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60721",
     "marca": "Gm",
     "modelo": "Tracker LTZ 1.4 Turbo 16V Flex 4x2 Aut (S)",
@@ -3301,7 +3311,7 @@
   },
   "61044": {
     "ano": "2025 / 2025",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61044-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61044",
     "marca": "Yamaha",
     "modelo": "Nmax Connected 160 ABS (S)",
@@ -3381,7 +3391,7 @@
   },
   "61100": {
     "ano": "2016 / 2016",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61100-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61100",
     "marca": "Audi",
     "modelo": "A3 Sed. Ambition 2.0 TSFI 220cv S-tronic (SP) #",
@@ -3411,7 +3421,7 @@
   },
   "61131": {
     "ano": "2019 / 2019",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61131-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61131",
     "marca": "Honda",
     "modelo": "City Sedan EXL 1.5 Flex 16V 4p Aut (S)",
@@ -3439,6 +3449,16 @@
     "preco": "R$ 48.900,00",
     "visto_em": "2026-06-19T13:42:39+00:00"
   },
+  "61151": {
+    "ano": "2018 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61151-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61151",
+    "marca": "Honda",
+    "modelo": "NC 750X/NC 750X ABS Mec (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 29.900,00",
+    "visto_em": "2026-06-23T14:03:32+00:00"
+  },
   "61160": {
     "ano": "2011 / 2011",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61160-1b.jpg",
@@ -3458,6 +3478,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 18.800,00",
     "visto_em": "2026-06-19T13:42:39+00:00"
+  },
+  "61170": {
+    "ano": "2024 / 2025",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61170-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61170",
+    "marca": "--",
+    "modelo": "Haval H6 GT 1.5 AWD (Hibrido) (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 159.900,00",
+    "visto_em": "2026-06-23T14:03:32+00:00"
   },
   "61196": {
     "ano": "2020 / 2020",
@@ -3501,7 +3531,7 @@
   },
   "61273": {
     "ano": "2020 / 2021",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61273-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61273",
     "marca": "Yamaha",
     "modelo": "Neo Automatic 125CC (S)",
@@ -3518,6 +3548,16 @@
     "monta": "Média-monta",
     "preco": "R$ 82.000,00",
     "visto_em": "2026-06-16T17:37:27+00:00"
+  },
+  "61285": {
+    "ano": "2017 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61285-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61285",
+    "marca": "Renault",
+    "modelo": "Logan Expression Flex 1.6 16V 4p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 24.900,00",
+    "visto_em": "2026-06-23T14:03:32+00:00"
   },
   "61304": {
     "ano": "2009 / 2009",
@@ -3568,5 +3608,25 @@
     "monta": "Média-monta",
     "preco": "R$ 26.500,00",
     "visto_em": "2026-06-16T17:37:27+00:00"
+  },
+  "61384": {
+    "ano": "2024 / 2025",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61384-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61384",
+    "marca": "Fiat",
+    "modelo": "Strada Ultra 1.0 Flex Turbo CD Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 83.000,00",
+    "visto_em": "2026-06-23T14:03:32+00:00"
+  },
+  "61527": {
+    "ano": "2019 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61527-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61527",
+    "marca": "Chery",
+    "modelo": "Tiggo 7 TXS 1.5 16V Turbo Flex Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 56.900,00",
+    "visto_em": "2026-06-23T14:03:32+00:00"
   }
 }
