@@ -2621,7 +2621,7 @@
   },
   "60140": {
     "ano": "2011 / 2012",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60140-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60140",
     "marca": "Ford",
     "modelo": "Fiesta 1.6 8V Flex 5p (S)",
@@ -2821,7 +2821,7 @@
   },
   "60345": {
     "ano": "2007 / 2008",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60345-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60345",
     "marca": "Gm",
     "modelo": "Corsa Sed Classic Life 1.0 (S)",
@@ -3001,7 +3001,7 @@
   },
   "60618": {
     "ano": "2020 / 2020",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60618-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60618",
     "marca": "Ducati",
     "modelo": "Multistrada 950 S (SP) #",
@@ -3011,7 +3011,7 @@
   },
   "60623": {
     "ano": "2014 / 2014",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60623-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60623",
     "marca": "Citroen",
     "modelo": "Aircross GLX Atacama 1.6 Flex 16V 5p Aut (SP) #",
@@ -3439,6 +3439,16 @@
     "preco": "R$ 49.500,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "61048": {
+    "ano": "2026 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61048-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61048",
+    "marca": "Yamaha",
+    "modelo": "FZ25 250 Fazer Connected (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 16.900,00",
+    "visto_em": "2026-07-06T21:02:25+00:00"
+  },
   "61058": {
     "ano": "2020 / 2021",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61058-1b.jpg",
@@ -3669,6 +3679,16 @@
     "preco": "R$ 45.900,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "61232": {
+    "ano": "2019 / 2019",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61232-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61232",
+    "marca": "Dafra",
+    "modelo": "Apache RTR 200CC (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 7.900,00",
+    "visto_em": "2026-07-06T21:02:25+00:00"
+  },
   "61235": {
     "ano": "2009 / 2010",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61235-1b.jpg",
@@ -3841,7 +3861,7 @@
   },
   "61348": {
     "ano": "2011 / 2012",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61348-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61348",
     "marca": "Gm",
     "modelo": "Classic LS 1.0 VHC FlexP. 4p (S)",
@@ -3861,7 +3881,7 @@
   },
   "61359": {
     "ano": "2019 / 2019",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61359-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61359",
     "marca": "Honda",
     "modelo": "CB 650F (SP) #",
@@ -3909,15 +3929,35 @@
     "preco": "R$ 33.900,00",
     "visto_em": "2026-06-25T23:24:43+00:00"
   },
+  "61414": {
+    "ano": "2019 / 2019",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61414-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61414",
+    "marca": "Honda",
+    "modelo": "XRE 300 ABS Flex (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 18.800,00",
+    "visto_em": "2026-07-06T21:02:25+00:00"
+  },
   "61415": {
     "ano": "2017 / 2018",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61415-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61415",
     "marca": "Toyota",
     "modelo": "Corolla XEi 2.0 Flex 16V Aut (S)",
     "monta": "Média-monta",
     "preco": "R$ 64.000,00",
     "visto_em": "2026-07-03T19:56:36+00:00"
+  },
+  "61418": {
+    "ano": "2008 / 2009",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61418-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61418",
+    "marca": "Ford",
+    "modelo": "Ka 1.0 8V Flex 3p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 11.900,00",
+    "visto_em": "2026-07-06T21:02:25+00:00"
   },
   "61439": {
     "ano": "2008 / 2008",
@@ -3941,13 +3981,23 @@
   },
   "61462": {
     "ano": "2018 / 2018",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61462-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61462",
     "marca": "Honda",
     "modelo": "PCX 150 / DLX (S)",
     "monta": "Média-monta",
     "preco": "R$ 9.300,00",
     "visto_em": "2026-07-03T19:56:36+00:00"
+  },
+  "61471": {
+    "ano": "2017 / 2017",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61471-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61471",
+    "marca": "Honda",
+    "modelo": "PCX 150 / DLX (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 8.800,00",
+    "visto_em": "2026-07-06T21:02:25+00:00"
   },
   "61472": {
     "ano": "2007 / 2008",
@@ -3961,7 +4011,7 @@
   },
   "61473": {
     "ano": "2012 / 2012",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61473-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61473",
     "marca": "Peugeot",
     "modelo": "207 XR 1.4 Flex 8V 5p (SP) #",
@@ -4009,6 +4059,16 @@
     "preco": "R$ 45.900,00",
     "visto_em": "2026-07-02T13:12:16+00:00"
   },
+  "61507": {
+    "ano": "2016 / 2016",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61507-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61507",
+    "marca": "Fiat",
+    "modelo": "Doblo Essence 1.8 Flex 16V 5p 5LG (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 39.900,00",
+    "visto_em": "2026-07-06T21:02:25+00:00"
+  },
   "61516": {
     "ano": "2020 / 2020",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61516-1b.jpg",
@@ -4039,6 +4099,16 @@
     "preco": "R$ 10.900,00",
     "visto_em": "2026-06-25T23:24:43+00:00"
   },
+  "61547": {
+    "ano": "2013 / 2014",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61547-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61547",
+    "marca": "Kia",
+    "modelo": "Cerato 1.6 16V Flex Aut (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 46.000,00",
+    "visto_em": "2026-07-06T21:02:25+00:00"
+  },
   "61556": {
     "ano": "2018 / 2019",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61556-1b.jpg",
@@ -4061,7 +4131,7 @@
   },
   "61673": {
     "ano": "2020 / 2021",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61673-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61673",
     "marca": "Hyundai",
     "modelo": "HB20 Evolution 1.0 Flex 12V Mec (S)",
