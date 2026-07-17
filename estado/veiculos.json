@@ -3469,6 +3469,16 @@
     "preco": "R$ 49.500,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "61047": {
+    "ano": "2011 / 2011",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61047-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61047",
+    "marca": "Fiat",
+    "modelo": "Punto Attractive 1.4 Fire Flex 8V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 19.900,00",
+    "visto_em": "2026-07-17T13:58:35+00:00"
+  },
   "61048": {
     "ano": "2026 / 2026",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61048-1b.jpg",
@@ -3688,6 +3698,16 @@
     "monta": "Média-monta",
     "preco": "R$ 159.900,00",
     "visto_em": "2026-06-23T14:03:32+00:00"
+  },
+  "61179": {
+    "ano": "2010 / 2011",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61179-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61179",
+    "marca": "Honda",
+    "modelo": "City Sedan LX 1.5 Flex 16V 4p Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 29.500,00",
+    "visto_em": "2026-07-17T13:58:35+00:00"
   },
   "61185": {
     "ano": "2025 / 2026",
@@ -4259,6 +4279,16 @@
     "preco": "R$ 46.000,00",
     "visto_em": "2026-07-06T21:02:25+00:00"
   },
+  "61553": {
+    "ano": "2011 / 2011",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61553-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61553",
+    "marca": "Honda",
+    "modelo": "City Sedan LX 1.5 Flex 16V 4p Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 29.900,00",
+    "visto_em": "2026-07-17T13:58:35+00:00"
+  },
   "61555": {
     "ano": "2012 / 2013",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61555-1b.jpg",
@@ -4309,6 +4339,16 @@
     "preco": "R$ 13.800,00",
     "visto_em": "2026-07-13T20:45:44+00:00"
   },
+  "61656": {
+    "ano": "2018 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61656-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61656",
+    "marca": "Fiat",
+    "modelo": "Strada Working Hard 1.4 Fire Flex 8V CS (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 34.900,00",
+    "visto_em": "2026-07-17T13:58:35+00:00"
+  },
   "61673": {
     "ano": "2020 / 2021",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61673-1b.jpg",
@@ -4318,5 +4358,15 @@
     "monta": "Média-monta",
     "preco": "R$ 41.500,00",
     "visto_em": "2026-07-03T19:56:36+00:00"
+  },
+  "61729": {
+    "ano": "2025 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61729-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61729",
+    "marca": "Chery",
+    "modelo": "Tiggo 7 Sport 1.5 Turbo Flex 16V Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 84.900,00",
+    "visto_em": "2026-07-17T13:58:35+00:00"
   }
 }
