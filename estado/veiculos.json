@@ -4629,6 +4629,16 @@
     "preco": "R$ 29.900,00",
     "visto_em": "2026-07-20T16:55:58+00:00"
   },
+  "61659": {
+    "ano": "2017 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61659",
+    "marca": "Yamaha",
+    "modelo": "Nmax 160 (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 9.500,00",
+    "visto_em": "2026-07-31T21:14:08+00:00"
+  },
   "61673": {
     "ano": "2020 / 2021",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61673-1b.jpg",
@@ -4719,6 +4729,16 @@
     "preco": "R$ 53.900,00",
     "visto_em": "2026-07-21T19:47:52+00:00"
   },
+  "61894": {
+    "ano": "2015 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61894",
+    "marca": "Hyundai",
+    "modelo": "HB20 Hatch Comf 1.0 Flex 12V (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 28.500,00",
+    "visto_em": "2026-07-31T21:14:08+00:00"
+  },
   "61925": {
     "ano": "2012 / 2013",
     "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
@@ -4739,6 +4759,16 @@
     "preco": "R$ 9.200,00",
     "visto_em": "2026-07-30T21:19:31+00:00"
   },
+  "62007": {
+    "ano": "2014 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=62007",
+    "marca": "Gm",
+    "modelo": "Tracker LTZ 1.8 16V Flex 4x2 Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 41.900,00",
+    "visto_em": "2026-07-31T21:14:08+00:00"
+  },
   "62009": {
     "ano": "2017 / 2018",
     "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
@@ -4748,5 +4778,15 @@
     "monta": "Pequena-monta",
     "preco": "R$ 32.900,00",
     "visto_em": "2026-07-30T21:19:31+00:00"
+  },
+  "62011": {
+    "ano": "2012 / 2013",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=62011",
+    "marca": "Nissan",
+    "modelo": "Sentra 2.0 Flex Fuel 16V Aut (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 28.900,00",
+    "visto_em": "2026-07-31T21:14:08+00:00"
   }
 }
