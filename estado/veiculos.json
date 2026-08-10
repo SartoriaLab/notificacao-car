@@ -2849,6 +2849,16 @@
     "preco": "R$ 14.800,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "60363": {
+    "ano": "2011 / 2012",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60363-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60363",
+    "marca": "Citroen",
+    "modelo": "C4 Excl 2.0 Flex 16V Mec (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 18.900,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
+  },
   "60369": {
     "ano": "2008 / 2008",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60369-1b.jpg",
@@ -4559,6 +4569,16 @@
     "preco": "R$ 8.900,00",
     "visto_em": "2026-07-21T19:47:52+00:00"
   },
+  "61569": {
+    "ano": "2008 / 2009",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61569-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61569",
+    "marca": "Vw",
+    "modelo": "Crossfox 1.6 Mi Total Flex 8V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 19.900,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
+  },
   "61576": {
     "ano": "2021 / 2021",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61576-1b.jpg",
@@ -4648,6 +4668,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 13.800,00",
     "visto_em": "2026-07-13T20:45:44+00:00"
+  },
+  "61618": {
+    "ano": "2014 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61618-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61618",
+    "marca": "Fiat",
+    "modelo": "Palio 1.0 Fire Flex 2p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 17.800,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
   },
   "61626": {
     "ano": "2019 / 2020",
@@ -4899,6 +4929,16 @@
     "preco": "R$ 56.800,00",
     "visto_em": "2026-08-05T17:59:21+00:00"
   },
+  "61857": {
+    "ano": "2006 / 2007",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61857-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61857",
+    "marca": "Fiat",
+    "modelo": "Palio Week. Adv 1.8 mpi Flex (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 15.900,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
+  },
   "61877": {
     "ano": "2020 / 2020",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61877-1b.jpg",
@@ -4908,6 +4948,16 @@
     "monta": "Média-monta",
     "preco": "R$ 34.900,00",
     "visto_em": "2026-08-07T14:31:10+00:00"
+  },
+  "61886": {
+    "ano": "2008 / 2009",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61886-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61886",
+    "marca": "Renault",
+    "modelo": "Sandero Expression Hi-Flex 1.6 8V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 15.500,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
   },
   "61894": {
     "ano": "2015 / 2015",
@@ -4928,6 +4978,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 39.900,00",
     "visto_em": "2026-07-30T21:19:31+00:00"
+  },
+  "61984": {
+    "ano": "2014 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61984-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61984",
+    "marca": "Peugeot",
+    "modelo": "208 Active Pack 1.5 Flex 8V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 23.900,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
   },
   "61992": {
     "ano": "2019 / 2019",
@@ -4978,6 +5038,26 @@
     "monta": "Pequena-monta",
     "preco": "R$ 28.900,00",
     "visto_em": "2026-07-31T21:14:08+00:00"
+  },
+  "62012": {
+    "ano": "2013 / 2013",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/62012-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=62012",
+    "marca": "Toyota",
+    "modelo": "Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 79.900,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
+  },
+  "63016": {
+    "ano": "2012 / 2013",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63016-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63016",
+    "marca": "Vw",
+    "modelo": "Fox G2 1.6 Mi Total Flex 8V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 24.500,00",
+    "visto_em": "2026-08-10T17:10:31+00:00"
   },
   "63039": {
     "ano": "2018 / 2018",
