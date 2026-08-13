@@ -3491,7 +3491,7 @@
   },
   "61019": {
     "ano": "2021 / 2021",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61019-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61019",
     "marca": "Honda",
     "modelo": "ADV 150 (S)",
@@ -4589,6 +4589,16 @@
     "preco": "R$ 19.900,00",
     "visto_em": "2026-08-10T17:10:31+00:00"
   },
+  "61572": {
+    "ano": "2007 / 2007",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61572-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61572",
+    "marca": "Vw",
+    "modelo": "Fox 1.0Mi Total Flex 8V 3p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 11.500,00",
+    "visto_em": "2026-08-13T15:10:36+00:00"
+  },
   "61576": {
     "ano": "2021 / 2021",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61576-1b.jpg",
@@ -4839,6 +4849,16 @@
     "preco": "R$ 24.500,00",
     "visto_em": "2026-08-05T17:59:21+00:00"
   },
+  "61713": {
+    "ano": "2011 / 2012",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61713-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61713",
+    "marca": "Hyundai",
+    "modelo": "Elantra GLS 1.8 16V Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 37.900,00",
+    "visto_em": "2026-08-13T15:10:36+00:00"
+  },
   "61716": {
     "ano": "2011 / 2012",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61716-1b.jpg",
@@ -4871,7 +4891,7 @@
   },
   "61751": {
     "ano": "2024 / 2024",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61751-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61751",
     "marca": "Yamaha",
     "modelo": "Neo Automatic 125cc (SP) #",
@@ -4941,7 +4961,7 @@
   },
   "61851": {
     "ano": "2018 / 2018",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61851-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61851",
     "marca": "Ford",
     "modelo": "EcoSport Freestyle 1.5 12V Flex 5p Mec (S)",
@@ -5101,7 +5121,7 @@
   },
   "63043": {
     "ano": "2013 / 2013",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63043-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63043",
     "marca": "Vw",
     "modelo": "Kombi Standard 1.4 Mi Total Flex 8V (S)",
@@ -5118,6 +5138,26 @@
     "monta": "Média-monta",
     "preco": "R$ 38.900,00",
     "visto_em": "2026-08-07T14:31:10+00:00"
+  },
+  "63052": {
+    "ano": "2025 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63052-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63052",
+    "marca": "Honda",
+    "modelo": "CG 160 Cargo Flex (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 13.200,00",
+    "visto_em": "2026-08-13T15:10:36+00:00"
+  },
+  "63122": {
+    "ano": "2017 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63122-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63122",
+    "marca": "Jeep",
+    "modelo": "Compass Longitude 2.0 4x2 Flex 16V Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 56.900,00",
+    "visto_em": "2026-08-13T15:10:36+00:00"
   },
   "63149": {
     "ano": "2017 / 2018",
