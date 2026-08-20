@@ -2719,6 +2719,16 @@
     "preco": "R$ 22.500,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "60222": {
+    "ano": "2012 / 2013",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60222-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=60222",
+    "marca": "Fiat",
+    "modelo": "Uno Mille 1.0 F.Flex Economy (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 15.900,00",
+    "visto_em": "2026-08-20T19:09:54+00:00"
+  },
   "60223": {
     "ano": "2007 / 2008",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/60223-1b.jpg",
@@ -5019,6 +5029,16 @@
     "preco": "R$ 53.900,00",
     "visto_em": "2026-07-21T19:47:52+00:00"
   },
+  "61795": {
+    "ano": "2011 / 2012",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61795-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61795",
+    "marca": "Hyundai",
+    "modelo": "I30 2.0 16V 145cv 5p Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 31.900,00",
+    "visto_em": "2026-08-20T19:09:54+00:00"
+  },
   "61796": {
     "ano": "2018 / 2018",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61796-1b.jpg",
@@ -5028,6 +5048,16 @@
     "monta": "Média-monta",
     "preco": "R$ 31.900,00",
     "visto_em": "2026-08-19T17:45:21+00:00"
+  },
+  "61797": {
+    "ano": "2023 / 2024",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61797-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61797",
+    "marca": "Nissan",
+    "modelo": "Kicks Advance 1.6 16V Flex Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 71.000,00",
+    "visto_em": "2026-08-20T19:09:54+00:00"
   },
   "61851": {
     "ano": "2018 / 2018",
@@ -5309,6 +5339,16 @@
     "preco": "R$ 56.900,00",
     "visto_em": "2026-08-13T15:10:36+00:00"
   },
+  "63123": {
+    "ano": "2025 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63123-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63123",
+    "marca": "Fiat",
+    "modelo": "Titano Ranch 2.2 16V 4x4 TB Diesel Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 135.900,00",
+    "visto_em": "2026-08-20T19:09:54+00:00"
+  },
   "63149": {
     "ano": "2017 / 2018",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63149-1b.jpg",
@@ -5318,5 +5358,15 @@
     "monta": "Média-monta",
     "preco": "R$ 61.500,00",
     "visto_em": "2026-08-07T14:31:10+00:00"
+  },
+  "64226": {
+    "ano": "2019 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64226-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64226",
+    "marca": "Jeep",
+    "modelo": "Compass Limited 2.0 4x4 Diesel 16V Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 72.500,00",
+    "visto_em": "2026-08-20T19:09:54+00:00"
   }
 }
