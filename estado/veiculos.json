@@ -4289,6 +4289,16 @@
     "preco": "R$ 17.500,00",
     "visto_em": "2026-07-03T19:56:36+00:00"
   },
+  "61349": {
+    "ano": "2019 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61349-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61349",
+    "marca": "Fiat",
+    "modelo": "Mobi Like 1.0 Fire Flex 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 27.900,00",
+    "visto_em": "2026-09-15T15:32:07+00:00"
+  },
   "61358": {
     "ano": "2017 / 2018",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61358-1b.jpg",
@@ -5359,6 +5369,16 @@
     "preco": "R$ 31.900,00",
     "visto_em": "2026-08-27T22:52:30+00:00"
   },
+  "61836": {
+    "ano": "2017 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61836-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61836",
+    "marca": "Nissan",
+    "modelo": "Versa 1.0 12V FlexStart 4p Mec (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 31.000,00",
+    "visto_em": "2026-09-15T15:32:07+00:00"
+  },
   "61849": {
     "ano": "2013 / 2014",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61849-1b.jpg",
@@ -6008,5 +6028,15 @@
     "monta": "Pequena-monta",
     "preco": "R$ 24.900,00",
     "visto_em": "2026-09-09T20:30:56+00:00"
+  },
+  "64465": {
+    "ano": "2015 / 2016",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64465-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64465",
+    "marca": "Fiat",
+    "modelo": "Uno Attractive 1.0 Fire Flex 8V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 24.900,00",
+    "visto_em": "2026-09-15T15:32:07+00:00"
   }
 }
