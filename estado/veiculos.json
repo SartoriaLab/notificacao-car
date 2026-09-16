@@ -5769,6 +5769,16 @@
     "preco": "R$ 17.800,00",
     "visto_em": "2026-08-18T15:03:29+00:00"
   },
+  "63101": {
+    "ano": "2025 / 2025",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63101-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63101",
+    "marca": "Gm",
+    "modelo": "Spin LT 1.8 8V Econo.Flex 5p Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 73.900,00",
+    "visto_em": "2026-09-16T21:38:26+00:00"
+  },
   "63106": {
     "ano": "2020 / 2020",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63106-1b.jpg",
@@ -6009,6 +6019,26 @@
     "preco": "R$ 42.900,00",
     "visto_em": "2026-09-04T19:55:02+00:00"
   },
+  "64352": {
+    "ano": "2024 / 2025",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64352-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64352",
+    "marca": "BYD",
+    "modelo": "Shark GS 1.5 16V 4x4 Aut. (Hibrido) (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 167.000,00",
+    "visto_em": "2026-09-16T21:38:26+00:00"
+  },
+  "64385": {
+    "ano": "2011 / 2012",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64385-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64385",
+    "marca": "Fiat",
+    "modelo": "Palio 1.0 Economy Fire Flex 8V 4p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 18.900,00",
+    "visto_em": "2026-09-16T21:38:26+00:00"
+  },
   "64393": {
     "ano": "2019 / 2019",
     "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
@@ -6038,5 +6068,15 @@
     "monta": "Média-monta",
     "preco": "R$ 24.900,00",
     "visto_em": "2026-09-15T15:32:07+00:00"
+  },
+  "64519": {
+    "ano": "2012 / 2012",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64519-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64519",
+    "marca": "Honda",
+    "modelo": "City Sedan EX 1.5 Flex 16V 4p Mec (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 29.900,00",
+    "visto_em": "2026-09-16T21:38:26+00:00"
   }
 }
