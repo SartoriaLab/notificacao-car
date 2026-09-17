@@ -2031,7 +2031,7 @@
   },
   "58102": {
     "ano": "2025 / 2025",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/58102-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=58102",
     "marca": "Honda",
     "modelo": "CG 160 Fan Flex (S)",
@@ -4681,7 +4681,7 @@
   },
   "61508": {
     "ano": "2017 / 2017",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61508-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61508",
     "marca": "Honda",
     "modelo": "CB 250 Twister Flex (S)",
@@ -4748,6 +4748,16 @@
     "monta": "Média-monta",
     "preco": "R$ 34.900,00",
     "visto_em": "2026-08-05T17:59:21+00:00"
+  },
+  "61530": {
+    "ano": "2025 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61530-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61530",
+    "marca": "Honda",
+    "modelo": "CG 160 Start (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 12.900,00",
+    "visto_em": "2026-09-17T23:05:21+00:00"
   },
   "61531": {
     "ano": "2025 / 2025",
@@ -5008,6 +5018,16 @@
     "monta": "Média-monta",
     "preco": "R$ 17.800,00",
     "visto_em": "2026-08-10T17:10:31+00:00"
+  },
+  "61620": {
+    "ano": "2020 / 2021",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61620-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61620",
+    "marca": "Honda",
+    "modelo": "CG 160 Titan S Flex (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 10.800,00",
+    "visto_em": "2026-09-17T23:05:21+00:00"
   },
   "61626": {
     "ano": "2019 / 2020",
@@ -5379,6 +5399,16 @@
     "preco": "R$ 43.500,00",
     "visto_em": "2026-09-04T19:55:02+00:00"
   },
+  "61818": {
+    "ano": "2019 / 2019",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61818-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61818",
+    "marca": "Honda",
+    "modelo": "YBR 150 Factor ED/Flex (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 8.800,00",
+    "visto_em": "2026-09-17T23:05:21+00:00"
+  },
   "61819": {
     "ano": "2012 / 2013",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61819-1b.jpg",
@@ -5531,7 +5561,7 @@
   },
   "61898": {
     "ano": "2021 / 2021",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61898-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61898",
     "marca": "Fiat",
     "modelo": "Uno Attractive 1.0 Fire Flex 8V 5p (S)",
@@ -6041,7 +6071,7 @@
   },
   "64277": {
     "ano": "2010 / 2010",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64277-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64277",
     "marca": "Fiat",
     "modelo": "Siena EL 1.0 mpi Fire Flex 8V 4p (S)",
