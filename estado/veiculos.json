@@ -5019,6 +5019,16 @@
     "preco": "R$ 49.900,00",
     "visto_em": "2026-08-17T17:04:42+00:00"
   },
+  "61615": {
+    "ano": "2019 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61615",
+    "marca": "Fiat",
+    "modelo": "Toro Freedom 1.8 16V Flex Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 56.500,00",
+    "visto_em": "2026-09-18T21:01:30+00:00"
+  },
   "61618": {
     "ano": "2014 / 2015",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61618-1b.jpg",
@@ -5408,6 +5418,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 43.500,00",
     "visto_em": "2026-09-04T19:55:02+00:00"
+  },
+  "61809": {
+    "ano": "2008 / 2009",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61809",
+    "marca": "Vw",
+    "modelo": "Spacefox 1.6 Total Flex 8V (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 18.800,00",
+    "visto_em": "2026-09-18T21:01:30+00:00"
   },
   "61818": {
     "ano": "2019 / 2019",
@@ -5979,6 +5999,16 @@
     "preco": "R$ 33.900,00",
     "visto_em": "2026-08-21T20:20:31+00:00"
   },
+  "64184": {
+    "ano": "2012 / 2012",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64184",
+    "marca": "Vw",
+    "modelo": "Spacefox 1.6 Trend Total Flex 8V 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 23.500,00",
+    "visto_em": "2026-09-18T21:01:30+00:00"
+  },
   "64196": {
     "ano": "2015 / 2016",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64196-1b.jpg",
@@ -6149,6 +6179,16 @@
     "preco": "R$ 24.900,00",
     "visto_em": "2026-09-09T20:30:56+00:00"
   },
+  "64464": {
+    "ano": "2013 / 2013",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64464",
+    "marca": "Ford",
+    "modelo": "Fiesta 1.0 8V Flex 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 17.500,00",
+    "visto_em": "2026-09-18T21:01:30+00:00"
+  },
   "64465": {
     "ano": "2015 / 2016",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64465-1b.jpg",
@@ -6178,5 +6218,15 @@
     "monta": "Pequena-monta",
     "preco": "R$ 29.900,00",
     "visto_em": "2026-09-18T14:58:23+00:00"
+  },
+  "64533": {
+    "ano": "2012 / 2013",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64533",
+    "marca": "Nissan",
+    "modelo": "Tiida SL 1.8 Flex 16V Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 27.900,00",
+    "visto_em": "2026-09-18T21:01:30+00:00"
   }
 }
