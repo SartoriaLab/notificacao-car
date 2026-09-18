@@ -4029,6 +4029,16 @@
     "preco": "R$ 29.900,00",
     "visto_em": "2026-06-29T16:09:02+00:00"
   },
+  "61236": {
+    "ano": "2018 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61236-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61236",
+    "marca": "Gm",
+    "modelo": "Cobalt LTZ 1.8 8V Econo.Flex 4p Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 39.900,00",
+    "visto_em": "2026-09-18T14:58:23+00:00"
+  },
   "61238": {
     "ano": "2019 / 2020",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61238-1b.jpg",
@@ -6158,5 +6168,15 @@
     "monta": "Média-monta",
     "preco": "R$ 29.900,00",
     "visto_em": "2026-09-16T21:38:26+00:00"
+  },
+  "64532": {
+    "ano": "2015 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64532-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64532",
+    "marca": "Citroen",
+    "modelo": "C4 Lounge Tendance 1.6 Turbo Flex Aut (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 29.900,00",
+    "visto_em": "2026-09-18T14:58:23+00:00"
   }
 }
