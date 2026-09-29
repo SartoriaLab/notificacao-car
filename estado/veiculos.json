@@ -6369,6 +6369,16 @@
     "preco": "R$ 84.900,00",
     "visto_em": "2026-09-21T22:20:04+00:00"
   },
+  "64499": {
+    "ano": "2015 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64499",
+    "marca": "Ford",
+    "modelo": "Fusion Titanium 2.0 GTDI Eco. Awd Aut (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 53.500,00",
+    "visto_em": "2026-09-29T23:38:59+00:00"
+  },
   "64500": {
     "ano": "2016 / 2017",
     "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
@@ -6391,7 +6401,7 @@
   },
   "64518": {
     "ano": "2020 / 2020",
-    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64518-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64518",
     "marca": "Fiat",
     "modelo": "Toro Volcano 2.0 16V 4x4 TB Diesel Aut (S)",
