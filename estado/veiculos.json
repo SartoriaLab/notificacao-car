@@ -1649,6 +1649,16 @@
     "preco": "R$ 34.900,00",
     "visto_em": "2026-06-12T19:06:45+00:00"
   },
+  "56409": {
+    "ano": "2008 / 2008",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/56409-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=56409",
+    "marca": "Honda",
+    "modelo": "Fit S 1.5 16V 5p Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 24.500,00",
+    "visto_em": "2026-10-05T18:40:31+00:00"
+  },
   "56415": {
     "ano": "2013 / 2013",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/56415-1b.jpg",
@@ -5849,6 +5859,16 @@
     "preco": "R$ 36.900,00",
     "visto_em": "2026-08-27T22:52:30+00:00"
   },
+  "63042": {
+    "ano": "2023 / 2023",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63042-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63042",
+    "marca": "--",
+    "modelo": "Dominar 400 (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 14.800,00",
+    "visto_em": "2026-10-05T18:40:31+00:00"
+  },
   "63043": {
     "ano": "2013 / 2013",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63043-1b.jpg",
@@ -5928,6 +5948,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 9.900,00",
     "visto_em": "2026-10-01T21:59:44+00:00"
+  },
+  "63076": {
+    "ano": "2017 / 2017",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/63076-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=63076",
+    "marca": "Honda",
+    "modelo": "PCX 150 / DLX (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 9.500,00",
+    "visto_em": "2026-10-05T18:40:31+00:00"
   },
   "63081": {
     "ano": "2021 / 2022",
@@ -6318,6 +6348,26 @@
     "monta": "Média-monta",
     "preco": "R$ 34.900,00",
     "visto_em": "2026-09-25T19:28:53+00:00"
+  },
+  "64376": {
+    "ano": "2018 / 2019",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64376-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64376",
+    "marca": "Yamaha",
+    "modelo": "YS 150 Fazer Sed Flex (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 9.800,00",
+    "visto_em": "2026-10-05T18:40:31+00:00"
+  },
+  "64380": {
+    "ano": "2010 / 2010",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64380-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64380",
+    "marca": "Peugeot",
+    "modelo": "207 Sedan Passion XR 1.4 Flex 8V 4p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 11.900,00",
+    "visto_em": "2026-10-05T18:40:31+00:00"
   },
   "64385": {
     "ano": "2011 / 2012",
