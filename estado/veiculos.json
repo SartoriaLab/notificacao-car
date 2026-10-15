@@ -3729,6 +3729,16 @@
     "preco": "R$ 42.500,00",
     "visto_em": "2026-09-03T14:58:56+00:00"
   },
+  "61065": {
+    "ano": "2020 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61065-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61065",
+    "marca": "Honda",
+    "modelo": "Elite 125 (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 8.900,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
+  },
   "61067": {
     "ano": "2020 / 2021",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61067-1b.jpg",
@@ -4958,6 +4968,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 14.900,00",
     "visto_em": "2026-07-15T19:41:42+00:00"
+  },
+  "61577": {
+    "ano": "2019 / 2019",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61577-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61577",
+    "marca": "Yamaha",
+    "modelo": "XTZ 150 Crosser Z Flex (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 10.500,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
   },
   "61578": {
     "ano": "2021 / 2022",
@@ -6269,6 +6289,16 @@
     "preco": "R$ 37.500,00",
     "visto_em": "2026-09-03T14:58:56+00:00"
   },
+  "64268": {
+    "ano": "2019 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64268-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64268",
+    "marca": "Honda",
+    "modelo": "CG 160 Fan Flex (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 10.800,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
+  },
   "64272": {
     "ano": "2007 / 2008",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64272-1b.jpg",
@@ -6428,6 +6458,16 @@
     "monta": "Pequena-monta",
     "preco": "R$ 77.500,00",
     "visto_em": "2026-09-09T20:30:56+00:00"
+  },
+  "64401": {
+    "ano": "2014 / 2014",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64401",
+    "marca": "Vw",
+    "modelo": "Gol (novo) 1.6 Mi Total Flex 8V 4p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 22.900,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
   },
   "64402": {
     "ano": "2018 / 2018",
@@ -6659,6 +6699,46 @@
     "preco": "R$ 14.200,00",
     "visto_em": "2026-09-29T19:59:35+00:00"
   },
+  "64627": {
+    "ano": "2026 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64627-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64627",
+    "marca": "Fiat",
+    "modelo": "Strada Endurance 1.3 Flex 8V CS Plus (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 58.900,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
+  },
+  "64691": {
+    "ano": "2019 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64691",
+    "marca": "Chery",
+    "modelo": "Tiggo 5X T 1.5 16V Turbo Flex Aut (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 56.900,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
+  },
+  "64734": {
+    "ano": "2024 / 2025",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64734",
+    "marca": "Renault",
+    "modelo": "Duster Iconic Plus 1.3 TB 16V Flex Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 69.900,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
+  },
+  "64735": {
+    "ano": "2019 / 2019",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64735-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64735",
+    "marca": "Jeep",
+    "modelo": "Compass Longitude 2.0 4x2 Flex 16V Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 57.800,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
+  },
   "64736": {
     "ano": "2021 / 2021",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64736-1b.jpg",
@@ -6669,6 +6749,16 @@
     "preco": "R$ 59.900,00",
     "visto_em": "2026-10-01T21:59:44+00:00"
   },
+  "64795": {
+    "ano": "2012 / 2012",
+    "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64795",
+    "marca": "Land Rover",
+    "modelo": "Freelander2 Dynamique 2.2 SD4 T. Diesel (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 43.000,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
+  },
   "64814": {
     "ano": "2018 / 2018",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64814-1b.jpg",
@@ -6678,5 +6768,15 @@
     "monta": "Média-monta",
     "preco": "R$ 31.000,00",
     "visto_em": "2026-10-01T21:59:44+00:00"
+  },
+  "64853": {
+    "ano": "2017 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64853-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64853",
+    "marca": "Vw",
+    "modelo": "UP Cross 1.0 TSI Total Flex 12V 5p (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 42.500,00",
+    "visto_em": "2026-10-15T21:37:13+00:00"
   }
 }
