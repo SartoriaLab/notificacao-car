@@ -6419,6 +6419,16 @@
     "preco": "R$ 34.900,00",
     "visto_em": "2026-09-25T19:28:53+00:00"
   },
+  "64367": {
+    "ano": "2014 / 2015",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64367-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64367",
+    "marca": "Peugeot",
+    "modelo": "208 Active Pack 1.6 Flex 16V 5p Aut (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 27.900,00",
+    "visto_em": "2026-10-20T17:54:13+00:00"
+  },
   "64376": {
     "ano": "2018 / 2019",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64376-1b.jpg",
@@ -6749,6 +6759,16 @@
     "preco": "R$ 58.900,00",
     "visto_em": "2026-10-15T21:37:13+00:00"
   },
+  "64690": {
+    "ano": "2019 / 2020",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64690-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64690",
+    "marca": "Mitsubishi",
+    "modelo": "Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 61.000,00",
+    "visto_em": "2026-10-20T17:54:13+00:00"
+  },
   "64691": {
     "ano": "2019 / 2020",
     "foto": "https://lucineiautomoveis.com.br/imagem/imagem-n-disponivel-b.gif",
@@ -6838,5 +6858,15 @@
     "monta": "Pequena-monta",
     "preco": "R$ 42.500,00",
     "visto_em": "2026-10-15T21:37:13+00:00"
+  },
+  "65049": {
+    "ano": "2012 / 2013",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/65049-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=65049",
+    "marca": "Ford",
+    "modelo": "EcoSport Freestyle 1.6 16V Flex 5p (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 31.500,00",
+    "visto_em": "2026-10-20T17:54:13+00:00"
   }
 }
