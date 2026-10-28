@@ -3893,7 +3893,7 @@
     "ano": "2026 / 2027",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/61128-1b.jpg",
     "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=61128",
-    "marca": "--",
+    "marca": "Zontes",
     "modelo": "E 350 (SP) #",
     "monta": "Pequena-monta",
     "preco": "R$ 25.900,00",
@@ -6799,6 +6799,16 @@
     "preco": "R$ 61.000,00",
     "visto_em": "2026-10-23T15:47:23+00:00"
   },
+  "64715": {
+    "ano": "2017 / 2018",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64715-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64715",
+    "marca": "Vw",
+    "modelo": "Amarok High.CD 2.0 16V TDI 4x4 Dies. Aut (S)",
+    "monta": "Média-monta",
+    "preco": "R$ 84.900,00",
+    "visto_em": "2026-10-28T22:48:28+00:00"
+  },
   "64734": {
     "ano": "2024 / 2025",
     "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64734-1b.jpg",
@@ -6928,6 +6938,26 @@
     "monta": "Média-monta",
     "preco": "R$ 39.900,00",
     "visto_em": "2026-10-28T18:30:54+00:00"
+  },
+  "64963": {
+    "ano": "2026 / 2026",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64963-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64963",
+    "marca": "Honda",
+    "modelo": "CRF 1100L Africa TWIN DCT (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 76.900,00",
+    "visto_em": "2026-10-28T22:48:28+00:00"
+  },
+  "64996": {
+    "ano": "2010 / 2011",
+    "foto": "https://lucineiautomoveis.com.br/imagem/veiculo/64996-1b.jpg",
+    "link": "https://lucineiautomoveis.com.br/Veiculo.aspx?id=64996",
+    "marca": "Vw",
+    "modelo": "Jetta Variant 2.5 20V 170cv Tiptronic (SP) #",
+    "monta": "Pequena-monta",
+    "preco": "R$ 36.500,00",
+    "visto_em": "2026-10-28T22:48:28+00:00"
   },
   "65049": {
     "ano": "2012 / 2013",
